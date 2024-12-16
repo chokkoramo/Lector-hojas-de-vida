@@ -1,0 +1,19 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de salida generados
+output/
+*.json
+
+# Archivos de pruebas locales
+data/*.pdf
+
+# Configuraciones específicas del entorno
+*.pyc
+__pycache__/
+*.log
